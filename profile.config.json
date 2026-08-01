@@ -34,17 +34,18 @@
   ],
   "projects": [
     {
-      "name": "Project One",
+      "name": "SIMS",
       "url": "https://github.com/Seedkeey/SIMS",
       "homepage": "",
-      "focus": "primary",
+      "focus": "Monitoring System",
       "summary": "ss",
-      "heroLabel": "primary"
+      "heroLabel": "Smart Infus Monitoring System"
     }
   ],
   "techStack": [
     "Autocad",
-    "Proteus"
+    "Proteus",
+    "Python"  
   ],
   "links": [
     {

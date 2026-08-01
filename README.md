@@ -23,7 +23,7 @@ My work combines technical exploration with a builder mindset: understand the pr
 
 | Area | What I am exploring |
 | --- | --- |
-| **IoT** | - |
+| **IoT** | I like build |
 | **Telecommunication** | nn |
 | **Electrical** | nn |
 
@@ -31,7 +31,7 @@ My work combines technical exploration with a builder mindset: understand the pr
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [**Project One**](https://github.com/Seedkeey/SIMS) | primary | ss |
+| [**SIMS**](https://github.com/Seedkeey/SIMS) | Monitoring System | ss |
 
 ## Research Direction
 
@@ -39,7 +39,7 @@ My work combines technical exploration with a builder mindset: understand the pr
 
 ## Tech Stack
 
-`Autocad` · `Proteus`
+`Autocad` · `Proteus` · `Python`
 
 ## Recent Activity
 
