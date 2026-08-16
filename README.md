@@ -15,31 +15,31 @@
 
 ## About Me
 
--
+I study Electrical Engineering at Telkom University, focusing on industrial automation turning sensors, signals, and control systems into things that actually work in the field.
 
-My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works.
+My work combines technical exploration with a builder mindset understand the problem, test the system, and share what actually works.
 
 ## Current Focus
 
 | Area | What I am exploring |
 | --- | --- |
-| **IoT** | I like build |
-| **Telecommunication** | nn |
-| **Electrical** | nn |
+| **IoT** | Building connected systems from sensors to dashboards, hardware to cloud. |
+| **Telecommunication** | Understanding how data travels wireless links and protocols that keep devices talking. |
+| **Electrical** | Designing and simulating circuits as the backbone of every build. |
 
 ## Featured Work
 
 | Project | Focus | Why it matters |
 | --- | --- | --- |
-| [**SIMS**](https://github.com/Seedkeey/SIMS) | Monitoring System | ss |
+| [**SIMS**](https://github.com/Seedkeey/SIMS) | Monitoring System | IoT based infusion monitoring for medical environments real time status tracking to help medical staff respond faster. |
 
 ## Research Direction
 
--
+Exploring how IoT and telecommunication can make industrial systems smarter sense, transmit, decide, automate.
 
 ## Tech Stack
 
-`Autocad` · `Proteus` · `Python`
+`Autocad` · `Proteus` · `Python` · `Arduino / ESP32` · `C/C++`
 
 ## Recent Activity
 
