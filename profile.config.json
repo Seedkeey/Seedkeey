@@ -6,30 +6,30 @@
     "headline": "Electrical Engineering",
     "affiliation": "Telkom University",
     "location": "Bandung, Indonesia",
-    "status": "Learning..",
+    "status": "Learning",
     "about": [
-      "-",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I study Electrical Engineering at Telkom University, focusing on industrial automation turning sensors, signals, and control systems into things that actually work in the field.",
+      "My work combines technical exploration with a builder mindset understand the problem, test the system, and share what actually works."
     ]
   },
   "research": {
     "primary": "Electrical Engineering",
     "direction": "Industrial Automation",
     "themes": "IoT / Telecommunication / Industrial",
-    "narrative": "-"
+    "narrative": "Exploring how IoT and telecommunication can make industrial systems smarter sense, transmit, decide, automate."
   },
   "focus": [
     {
       "name": "IoT",
-      "description": "I like build"
+      "description": "Building connected systems from sensors to dashboards, hardware to cloud."
     },
     {
       "name": "Telecommunication",
-      "description": "nn"
+      "description": "Understanding how data travels wireless links and protocols that keep devices talking."
     },
     {
       "name": "Electrical",
-      "description": "nn"
+      "description": "Designing and simulating circuits as the backbone of every build."
     }
   ],
   "projects": [
@@ -38,14 +38,16 @@
       "url": "https://github.com/Seedkeey/SIMS",
       "homepage": "",
       "focus": "Monitoring System",
-      "summary": "ss",
+      "summary": "IoT based infusion monitoring for medical environments real time status tracking to help medical staff respond faster.",
       "heroLabel": "Smart Infus Monitoring System"
     }
   ],
   "techStack": [
     "Autocad",
     "Proteus",
-    "Python"  
+    "Python",
+    "Arduino / ESP32",
+    "C/C++"
   ],
   "links": [
     {
