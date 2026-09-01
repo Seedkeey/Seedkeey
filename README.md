@@ -46,8 +46,6 @@ Exploring how IoT and telecommunication can make industrial systems smarter sens
 <!-- AUTO:ACTIVITY:START -->
 - Aug 19, 2026: created a branch in [Seedkeey/SIMS](https://github.com/Seedkeey/SIMS).
 - Aug 16, 2026: pushed 1 commit to [Seedkeey/Seedkeey](https://github.com/Seedkeey/Seedkeey).
-- Aug 1, 2026: pushed 1 commit to [Seedkeey/Seedkeey](https://github.com/Seedkeey/Seedkeey).
-- Aug 1, 2026: created a branch in [Seedkeey/Seedkeey](https://github.com/Seedkeey/Seedkeey).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
